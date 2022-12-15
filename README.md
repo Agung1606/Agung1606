@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agung1606
-- 👀 I’m interested in Java Programming Languages
-- 🌱 I’m currently learning Spring framework and Microservices
+- 👀 I’m interested in Fullstack Web Developer
+- 🌱 I’m currently learning React, Node.js, and Express.js
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me dm me on twitter @AGNGSPTRAAA
 
