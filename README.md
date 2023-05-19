@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Agung Saputra
 - 👀 I’m interested in Fullstack Web Developer
-- 🌱 I’m currently learning MongoDB, Express js, React, Node js.
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me dm me on twitter @AGNGSPTRAAA
 
