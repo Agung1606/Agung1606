@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Agung Saputra
-- 👀 I’m interested in Fullstack Web Developer
+- 👀 I’m interested in React Native
 - 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me dm me on twitter @AGNGSPTRAAA
+- 📫 How to reach me dm me on twitter @agngsptra16_
 
 <!---
 Agung1606/Agung1606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
