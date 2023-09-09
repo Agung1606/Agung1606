@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Agung Saputra
-- 👀 I’m interested in React Native
+- 👀 I’m interested in Mobile development and Arduino
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me dm me on twitter @agngsptra16_
 
