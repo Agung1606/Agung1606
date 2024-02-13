@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Agung Saputra
-- 👀 I’m interested in Mobile development and Arduino
+- 👀 I’m interested in Software development and Electronics
 - 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me dm me on twitter @agngsptra16_
+- 📫 How to reach me dm me on twitter @agungcodes
 
 <!---
 Agung1606/Agung1606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
