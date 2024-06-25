@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Agung Saputra
-- 👀 I’m interested in Software development and Electronics
-- 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me dm me on twitter @agungcodes
+Hi, I'm Agung Saputra, a self-taught developer that have been studying programming for about 3 years, I'm really into Software development and AI, I'm looking to collaborate on open source project to enchace my skills, feel free to contact me on twitter @agungcodes
 
 <!---
 Agung1606/Agung1606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
