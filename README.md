@@ -18,7 +18,7 @@ I am software developer and AI enthusiast, constantly learning and building inno
 
 ## 📫 How to reach me
 - Email: [agngsptra928@gmail.com](mailto:agngsptra928@gmail.com)
-- Twitter: [@agungAJ](https://x.com/agungAJ)
+- Twitter: [@agungAJ_](https://x.com/agungAJ_)
 
 ## ✨ Fun Facts
 - I love reading about the intersection of AI and ethics.
